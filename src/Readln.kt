@@ -2,7 +2,7 @@ fun main() {
     println("Nama Kamu ?")
     val name = readln()
 
-    println("Umur kamu ?")
+    println("Umur kamu ?oo")
     val ageInput = readln()
     val age = ageInput.toIntOrNull()
 
