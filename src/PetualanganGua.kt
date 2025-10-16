@@ -13,13 +13,6 @@ fun main() {
         println("Status Pemain:")
         println("Nama       : $namaPemain")
         println("Kesehatan  : $kesehatanPemain")
-        println("Potion     : $jumlahPotion")
-        println("============================")
-
-        if (kesehatanPemain <= 0) {
-            println("Sayang sekali, $namaPemain telah kalah...")
-            break
-        }
 
         println("Didepan kamu terdapat 2 buah jalur:")
         println("1). Jalur gelap dan seram")
